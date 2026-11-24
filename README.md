@@ -45,3 +45,12 @@ Ordella is a storefront builder and order-request prototype for independent sell
 - `Data/` EF Core context and role seeding
 - `Views/` Razor UI
 - `wwwroot/` Bootstrap, JavaScript and site styling
+
+
+## Deliverable 3 additions
+- Dapper data access with three repository interfaces and implementations.
+- Dependency Injection registration for repositories.
+- AJAX JSON endpoints for shops/products and seller-only availability updates.
+- Strengthened Identity password and lockout configuration.
+- Optional Razor layout sections for page-specific headers and scripts.
+- See `DELIVERABLE_3_GUIDE.md`, `DEPLOYMENT_IIS.md`, and `TESTING_CHECKLIST.md`.
